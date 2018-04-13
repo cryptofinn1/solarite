@@ -1125,7 +1125,7 @@
     <p><a href="https://www.google.com/maps/place/Nordcom+I/@1.444324,103.8120167,17z/data=!3m1!4b1!4m5!3m4!1s0x31da137bc6f2d4fb:0x7ad5a0bc610fae91!8m2!3d1.4443186!4d103.8142054" target="_blank" style="color:#81ccba;">View on Google Maps</a></p>
     <br>
     <br>
-    <h2>tokensale@solarite.com</h2>
+    <h2>nvestors@solarite-technology.com</h2>
     <br>
     <br>
     <br>
