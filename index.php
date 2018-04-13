@@ -393,9 +393,9 @@
         <h1>Vision & Mission</h1>
         <br>
         <br>
-        <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit leo vel mi tempor egestas. Aliquam sed ex accumsan, lacinia nunc viverra, placerat augue. Nullam convallis commodo nulla, facilisis fermentum elit tempor quis. Nam vitae dictum eros eget.</h2>
+        <h2>Be the leading global CLEAN technology Corporation</h2>
         <br>
-        <h2>Sed blandit leo vel mi tempor egestas. Aliquam sed ex accumsan, lacinia nunc viverra, placerat augue. Nullam convallis commodo nulla, facilisis fermentum elit tempor quis. Nam vitae dictum eros, eget hendrerit purus. Vivamus aliquet quam massa.</h2>
+        <h2>Improving life through inventiveness</h2>
         
    </div>
   </div>
@@ -1058,15 +1058,15 @@
             </tr>
             <tr>
               <td class="token-table">Tokens for Sale</td>
-              <td>303,739,130.43 TAPP Tokens</td>
+              <td>336,000,000 TAPP Tokens</td>
             </tr>
             <tr>
               <td class="token-table">Currency Accepted</td>
-              <td>ETH</td>
+              <td>ETH / USD</td>
             </tr>
             <tr>
               <td class="token-table">Pre-Sale Dates</td>
-              <td>Revisit</td>
+              <td>2018 Q3</td>
             </tr>
             <tr>
               <td class="token-table">Pre-Sale Bonus</td>
@@ -1074,11 +1074,11 @@
             </tr>
             <tr>
               <td class="token-table">Sale Dates</td>
-              <td>Q3</td>
+              <td>2018 Q3</td>
             </tr>
             <tr>
               <td class="token-table">Sale Rates</td>
-              <td>1 ETH = 9500 TAPP</td>
+              <td>1 TAPP = USD$0.0859</td>
             </tr>
         </table>
       </div>
