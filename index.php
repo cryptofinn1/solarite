@@ -270,6 +270,7 @@
     <h1>First Truly Green, Proof of Power Cryptocurrency</h1>
     <br>
     <br>
+    <!--
     <h2>Presale Starting In</h2>
     <br>
     <div id="countdown"></div>
@@ -290,6 +291,7 @@
     </ul>
     <br>
     <br>
+    -->
     <ul class="content-btn">
       <li><a href="#participateform" class="btn">Participate</a></li>
       <li><a href="" target="_blank" class="btn green-btn">Whitepaper</a></li>
@@ -337,7 +339,7 @@
             <tr>
               <td><span style="color:#5ea896"><b>Conversion Efficiency</b></span></td>
               <td>8 - 17%</td>
-              <td>28 - 36%</td>
+              <td>25 - 32%</td>
             </tr>
             <tr>
               <td><span style="color:#5ea896"><b>Investment Break <br>Even Period</b></span></td>
@@ -510,32 +512,16 @@
             <div class="timeline-info"> </div>
             <div class="timeline-marker tokensale"></div>
             <div class="timeline-content">
-              <h2 class="timeline-title">2015 Q3</h2>
-              <p>Birth of Solarite Concept</p>
+              <h2 class="timeline-title">2018 Q1</h2>
+              <p>Private Placements,<br>Prototype Development,<br> Tokens Issued</p>
             </div>
           </li>
           <li class="timeline-item">
             <div class="timeline-info"> </div>
             <div class="timeline-marker tokensale"></div>
             <div class="timeline-content">
-              <h2 class="timeline-title">2017 Q3</h2>
-              <p>Testing of Solarite Prototype</p>
-            </div>
-          </li>
-          <li class="timeline-item">
-            <div class="timeline-info"> </div>
-            <div class="timeline-marker"></div>
-            <div class="timeline-content">
-              <h2 class="timeline-title">2017 Q4</h2>
-              <p>Presentation to Abu Dhabi Prince,<br>Shell IdeaRefinery, Partnership with A*STAR</p>
-            </div>
-          </li>
-          <li class="timeline-item">
-            <div class="timeline-info"> </div>
-            <div class="timeline-marker"></div>
-            <div class="timeline-content">
-              <h2 class="timeline-title">2018 Q1</h2>
-              <p>Partnerships with clean energy providers</p>
+              <h2 class="timeline-title">2018 Q2</h2>
+              <p>Equity Fund Raising Events Round A</p>
             </div>
           </li>
           <li class="timeline-item">
@@ -543,15 +529,63 @@
             <div class="timeline-marker"></div>
             <div class="timeline-content">
               <h2 class="timeline-title">2018 Q3</h2>
-              <p>TAPP Market Place, Nova Tokens creation,<br>Token Swap to Proof of Power Blockchain</p>
+              <p>Token Sale,<br>Prototype Testing</p>
             </div>
           </li>
           <li class="timeline-item">
             <div class="timeline-info"> </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
-              <h2 class="timeline-title">2019 Q1</h2>
-              <p>Completion of first solar farm</p>
+              <h2 class="timeline-title">2018 Q4</h2>
+              <p>Research and Development on PoP</p>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <h2 class="timeline-title">2019 Q2</h2>
+              <p>Mass Production of Solarite Panels,<br>Integration of PoP with Solarite</p>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <h2 class="timeline-title">2019 Q3</h2>
+              <p>Building of first Solar Farm (1st)</p>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <h2 class="timeline-title">2019 Q4</h2>
+              <p>Token Swap and PoP rollout</p>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <h2 class="timeline-title">2020 Q2</h2>
+              <p>Building of Subsequent Solar Farms (2nd)</p>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <h2 class="timeline-title">2021 Q2</h2>
+              <p>Building of Subsequent Solar Farms (3rd)</p>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <h2 class="timeline-title">2021 Q4</h2>
+              <p>Equity Fund Raising Event Round B</p>
             </div>
           </li>
           <!--<li class="timeline-item period">
@@ -1040,7 +1074,7 @@
             </tr>
             <tr>
               <td class="token-table">Sale Dates</td>
-              <td>Revisit</td>
+              <td>Q3</td>
             </tr>
             <tr>
               <td class="token-table">Sale Rates</td>
@@ -1086,9 +1120,9 @@
     <div class="mail-icon"><i class="fa fa-envelope-o"></i></div>
     <br>
     <br>
-    <h2>Road ABC Street #01-02,</h2>
-    <h2>Singapore 123456</h2>
-    <p><a href="" target="_blank" style="color:#81ccba;">View on Google Maps</a></p>
+    <h2>3 Gambas Crescent, Nordcom One, #08-01,</h2>
+    <h2>Singapore 757088</h2>
+    <p><a href="https://www.google.com/maps/place/Nordcom+I/@1.444324,103.8120167,17z/data=!3m1!4b1!4m5!3m4!1s0x31da137bc6f2d4fb:0x7ad5a0bc610fae91!8m2!3d1.4443186!4d103.8142054" target="_blank" style="color:#81ccba;">View on Google Maps</a></p>
     <br>
     <br>
     <h2>tokensale@solarite.com</h2>
@@ -1323,13 +1357,14 @@ Diploma In Civil Engineering
   </div>
   <div class="team-info">
     <p>Shell is looking to mentor energy start-ups that have actionable ideas, technologies and innovations. Shell #IdeaRefinery, a programme by Shell, ImpacTech and NUS Enterprise, is a 20-week accelerator programme focused on developing early stage energy-related startups into full-fledged startups that can raise capital and scale into successful businesses.</p>
+    <!--
     <br>
     <br>
     <div style="float:right;">
       <a class="btn">Visit Website</a>
     </div>
     <br>
-    <div style="clear:both;"></div>
+    <div style="clear:both;"></div>-->
   </div>
 </div>
 
@@ -1339,13 +1374,14 @@ Diploma In Civil Engineering
   </div>
   <div class="team-info">
     <p>A*STAR's Institute of Materials Research and Engineering (IMRE) is a research institute with a unique combination of R&D capabilities, commercial partnerships and strategic alliances. Comprehensive materials-related solutions for global and local partners are developed here at IMRE. IMRE has the expertise in materials research and engineering, ranging from consultancy and testing services to joint research and development programmes, to serve the diverse needs of industry.</p>
+    <!--
     <br>
     <br>
     <div style="float:right;">
       <a class="btn">Visit Website</a>
     </div>
     <br>
-    <div style="clear:both;"></div>
+    <div style="clear:both;"></div>-->
   </div>
 </div>
 
@@ -1355,13 +1391,14 @@ Diploma In Civil Engineering
   </div>
   <div class="team-info">
     <p>Red Dot Power Pte Ltd (RDP) is a homegrown Singapore energy solutions provider. A pioneer and leading player in the National Electricity Market of Singapore (NEMS), Red Dot Power has been at the forefront of the electricity retail scene since the entry of independent electricity retailers. Primarily offering electricity retail services, we also offer Demand Management and Interruptible Load solutions, efficient grid and off-grid options, storage applications, urban energy solutions and solar projects.</p>
+    <!--
     <br>
     <br>
     <div style="float:right;">
       <a class="btn">Visit Website</a>
     </div>
     <br>
-    <div style="clear:both;"></div>
+    <div style="clear:both;"></div>-->
   </div>
 </div>
 
@@ -1371,13 +1408,14 @@ Diploma In Civil Engineering
   </div>
   <div class="team-info">
     <p>ImpacTech is a business consulting company that empowers impact driven technology companies and startups by offering customized acceleration programs and unique practical workshops. The company’s HQ is in Singapore and is operating in Thailand and Japan. In 2018 ImpacTech will expand to other countries in Asia.</p>
+    <!--
     <br>
     <br>
     <div style="float:right;">
       <a class="btn">Visit Website</a>
     </div>
     <br>
-    <div style="clear:both;"></div>
+    <div style="clear:both;"></div>-->
   </div>
 </div>
 
@@ -1389,13 +1427,14 @@ Diploma In Civil Engineering
     <p>Startup-O is a Singapore-based platform that curates promising startups from any location and provides them with Strategic Seed Capital & connects with Global Experts fast. The platform is created by entrepreneurs for entrepreneurs who believe in going the extra mile. Startup-O works in collaboration with Javelin Wealth Management &  IP Bridge.</p>
     <br>
     <p>Solarite is selected into the cohort among 660 startups submission from 32 countries in Startup-O ‘Fasttrack’ Season 5.</p>
+    <!--
     <br>
     <br>
     <div style="float:right;">
       <a class="btn">Visit Website</a>
     </div>
     <br>
-    <div style="clear:both;"></div>
+    <div style="clear:both;"></div>-->
   </div>
 </div>
 
@@ -1405,13 +1444,14 @@ Diploma In Civil Engineering
   </div>
   <div class="team-info">
     <p>Schweiger & Partners focuses on Intellectual Property and on related commercial law matters in Europe and in Asia. The firm specialised in the area of Intellectual Property or a patent or trademark department of a larger company. Singapore and Munich are the gateway to our IP services in Europe, fostering our business and networks in Asia and the Americas.</p>
+    <!--
     <br>
     <br>
     <div style="float:right;">
       <a class="btn">Visit Website</a>
     </div>
     <br>
-    <div style="clear:both;"></div>
+    <div style="clear:both;"></div>-->
   </div>
 </div>
 
