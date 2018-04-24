@@ -309,9 +309,9 @@
     <div class="col-md-8 v-pad">
       <h1>Challenges with Conventional Photovoltaic Systems</h1>
       <br>
-      <p>Solar panels are set up on rooftops of houses and buildings while solar farm spring up across the continents to absorb sunlight and convert them into electrical energy. Currently, solar panel has long breakeven period of 4 years to 10 years while e ciency is in the range of 8 to 17 percent only. Solar panels tend to have low reliability in harsher environments and this shortens the usable lifespan of solar module. Less reliable solar module produces negative net clean energy which produces more harm than good for the environment.</p>
+      <p>Solar panels are set up on rooftops of houses and buildings while solar farm spring up across the continents to absorb sunlight and convert them into electrical energy. Currently, solar panel has long breakeven period of 4 years to 10 years while efficiency is in the range of 8 to 17 percent only. Solar panels tend to have low reliability in harsher environments and this shortens the usable lifespan of solar module. Less reliable solar module produces negative net clean energy which produces more harm than good for the environment.</p>
       <br>
-      <p>Some companies attempted to use Low Concentrated Photovoltaic (LCPV) and High Concentration Photovoltaic (HCPV) to overcome these problems However, concentrating sunlight at using both methods produces high temperature on the solar module. In the case of LCPV, the temperature could reach around 150 deg celcius. At this temperature, the solar cell conversion e ciency reduces tremendously (1 deg raise in temperature on solar cell reduces the conversion e ciency by 0.5%). The high temperature also shortens the solar cell lifespan. The high temperature therefore discourages the use of both LCPV and HCPV in the solar industry despite its increased e ectiveness. The market is in need of a solar energy solution that achieves the high e ciency despite high temperatures.</p>
+      <p>Some companies attempted to use Low Concentrated Photovoltaic (LCPV) and High Concentration Photovoltaic (HCPV) to overcome these problems However, concentrating sunlight at using both methods produces high temperature on the solar module. In the case of LCPV, the temperature could reach around 150 deg celcius. At this temperature, the solar cell conversion efficiency reduces tremendously (1 deg raise in temperature on solar cell reduces the conversion efficiency by 0.5%). The high temperature also shortens the solar cell lifespan. The high temperature therefore discourages the use of both LCPV and HCPV in the solar industry despite its increased effectiveness. The market is in need of a solar energy solution that achieves the high efficiency despite high temperatures.</p>
     </div>
   </div>
   </div>
@@ -325,9 +325,9 @@
       <div class="col-md-6 v-pad">
        <h1>Technologies</h1>
        <br>
-       <p>Solarite increases the solar to electricity conversion effciency by between 28% to 36% as compared to solar to electricity conversion effciency of between 8% to 17% by conventional PV and enables a shorter investment breakeven period of 3 years as compared to the existing breakeven period of 4-10 years for conventional PV. Low Concentrated Photovoltaic (LCPV) concentrates sunlight at a concentration ratio of less than 100x using single or dual axis solar tracker with c-silicon or other solar cell.</p>
+       <p>Solarite increases the solar to electricity conversion efficiency by between 25% to 32% as compared to solar to electricity conversion efficiency of between 8% to 17% by conventional PV and enables a shorter investment breakeven period of 3 years as compared to the existing breakeven period of 4-10 years for conventional PV. Low Concentrated Photovoltaic (LCPV) concentrates sunlight at a concentration ratio of less than 100x using single or dual axis solar tracker with c-silicon or other solar cell.</p>
        <br>
-       <p>On 24th May, 2017, the company filed a patent for Solar Module: Solarite – High Effciency Solar Module – Patent No. GB1708275.1.</p>
+       <p>On 24th May, 2017, the company filed a patent for Solar Module: Solarite – High efficiency Solar Module – Patent No. GB1708275.1.</p>
        <br>
        <br>
        <table>
@@ -344,7 +344,12 @@
             <tr>
               <td><span style="color:#5ea896"><b>Investment Break <br>Even Period</b></span></td>
               <td>4 - 10 Years</td>
-              <td>3 Years</td>
+              <td>3.5 Years</td>
+            </tr>
+            <tr>
+              <td><span style="color:#5ea896"><b>Short Life Span</b></span></td>
+              <td>7 - 15 Years</td>
+              <td>20 - 25 Years</td>
             </tr>
         </table>
       </div>
@@ -364,7 +369,7 @@
     <div class="solar-container">
       <h1>How Does Solarite Work?</h1>
       <br>
-      <p>Heat causes reduction in solar cell conversion effciency and shortens solar cell life span. Solarite uses hot mirrors to remove infrared ray from the sunlight and allow visible lights to pass through. A vacuum acts as a heat buffer to prevent heat from hitting the solar cell via convection. Solarite uses much lesser solar cell with high reflective mirrors to produce more electricity.</p>
+      <p>Heat causes reduction in solar cell conversion efficiency and shortens solar cell life span. Solarite uses hot mirrors to remove infrared ray from the sunlight and allow visible lights to pass through. A vacuum acts as a heat buffer to prevent heat from hitting the solar cell via convection. Solarite uses much lesser solar cell with high reflective mirrors to produce more electricity.</p>
       <br>
       <br>
       <img src="img/graphic-howitworks.png" alt="">
@@ -377,13 +382,13 @@
       </div>
       <br>
       <br>
-      <p>Solarite utilises a form of low concentration photovoltaic which concentrates sunlight at ~100x onto solar cells. The project is aimed at shortening the breakeven period while increasing solar cell effciency. Sunlight is reflected from the reflective mirror (primary concentrator) onto Solarite (secondary concentrator). Solarite concentrates sunlight onto strip of high effciency solar cell to achieve higher conversion of solar energy into electricity. Solarite uses single axis solar tracker which produces consistent energy output throughout the day.</p>
+      <p>Solarite utilises a form of low concentration photovoltaic which concentrates sunlight at ~100x onto solar cells. The project is aimed at shortening the breakeven period while increasing solar cell efficiency. Sunlight is reflected from the reflective mirror (primary concentrator) onto Solarite (secondary concentrator). Solarite concentrates sunlight onto strip of high efficiency solar cell to achieve higher conversion of solar energy into electricity. Solarite uses single axis solar tracker which produces consistent energy output throughout the day.</p>
       <br>
       <br>
       <img src="img/graphic-chart.png" alt="">
       <br>
       <br>
-      <p>In conventional standalone non-grid tie SPV System, solar cell account for 57% of the system cost. Solarite uses only small high effciency solar cell of at least 20% to 24% effciency and enhance them to 28% - 36% effciency. Solarite’s patented hot mirrors reduces the number of solar cell modules which takes up 57% of the cost of a LCPV while increasing conversion effciency. Reducing the carbon footprint and ensures positive net clean energy.</p>
+      <p>In conventional standalone non-grid tie SPV System, solar cell account for 57% of the system cost. Solarite uses only small high efficiency solar cell of at least 20% to 24% efficiency and enhance them to 28% - 36% efficiency. Solarite’s patented hot mirrors reduces the number of solar cell modules which takes up 57% of the cost of a LCPV while increasing conversion efficiency. Reducing the carbon footprint and ensures positive net clean energy.</p>
     </div>
   </div>
 </section>
@@ -393,9 +398,11 @@
         <h1>Vision & Mission</h1>
         <br>
         <br>
-        <h2>Be the leading global CLEAN technology Corporation</h2>
+        <h2>Leader in renewable energy generation<br>
+        Improving life through Renewable energy adoption</h2>
         <br>
-        <h2>Improving life through inventiveness</h2>
+        <h2>Solarite converts solar energy to electricity more efficiently than conventional solar panels by using concentration technologies. Solarite has the advantages of lower capital expenditure cost and shorter return on investment.
+</h2>
         
    </div>
   </div>
@@ -432,7 +439,9 @@
     <div class="solar-container">
       <h1>Proof of Power</h1>
       <br>
-      <p>Solarite will be equipping our solar farms with mining hardware. Each unit will consist of a photovoltaic system that is capable of generating enough electricity to power the Solarite Blockchain as well as have surplus energy generated back into the grid. Holders of TAPP Coins can stake their coins on these units to “power” these masternodes to generate TAPP Coins in exchange for their stake, generating power for Solarite to sell back to the grid.</p>
+      <p>Solarite, the world's first truly green cryptocurrency is created through Solarite Blockchain under Solarite's Proof-of-Power blockchain protocols. By constructing solar farms around the world with Solarite's Concentrated Solar Technologies, Solarite acquires more use case for its utility tokens.</p>
+      <br>
+      <p>Solarite harness the green energy to power Solarite's mining operations. The Proof-of-Power blockchain evolved from the Proof-of-Stake concept, where token holders stake their coins with Solarite's masternode. With higher staking, token holders have more authorities (or mining power) to validate each transactions. Proof-of-Power concept uses much lesser amount of electricity which allows the excess energy generated by the solar farm to sell back to the grid.</p>
     </div>
   </div>
 </section>
@@ -475,7 +484,7 @@
         <div class="col-md-8 col-xs-9 v-pad">
           <h2>Solarite Coin Holders</h2>
           <br>
-          <p>This group consists of crypto-saavy consumers who stake their coins with Solarite.</p>
+          <p>This group consists of crypto-savvy consumers who stake their coins with Solarite.</p>
         </div>
       </div>
       <div class="col-md-6 col-xs-12 v-pad">
@@ -738,7 +747,7 @@
       <br>
       <p>The Solarite Platform provides a transparent governance framework that allows the Ecosystem to seamlessly interface with energy markets around the globe, bringing innovation and a wide range of network bene ts to consumers and enabling all 4 groups of market players with market power in any transactive arrangement.</p>
       <br>
-      <p>This approach also means the Ecosystem is adaptable and scalable for applications within any existing or future regulatory environment, achieving the dynamic agility required to adapt to any number of regulatory structures. The market  exibility of the Ecosystem is facilitated by deployment of a dual- token ecosystem (TappCoin and TappNova).</p>
+      <p>This approach also means the Ecosystem is adaptable and scalable for applications within any existing or future regulatory environment, achieving the dynamic agility required to adapt to any number of regulatory structures. The market flexibility of the Ecosystem is facilitated by deployment of a dual- token ecosystem (TappCoin and TappNova).</p>
       <br>
       <p>TappCoin tokens will initially be built on the ERC20 standard on the Ethereum Blockchain before the development of the Proof-of-Power blockchain. Upon the development of Proof of Power consensus algorithm for its blockchain, Solarite will conduct a token swap for all existing TAPP coin holders.</p>
       <br>
