@@ -354,7 +354,7 @@
         </table>
       </div>
       <div class="col-md-6 v-pad" style="text-align:center;">
-        <img src="img/graphic-solution.jpg" alt="">
+        <img src="img/graphic-solution-2.jpg" alt="">
         <div class="solution-desc">
           <i class="fa fa-check"></i> &nbsp;Replace Expensive solar cell with cheaper reflective mirrors
           <br>
