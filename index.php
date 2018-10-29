@@ -997,9 +997,6 @@
 		<a href="#shell" class="open-popup-link"><img src="img/partner-shell.jpg" alt=""></a>
 	  </div>
 	  <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-		  <a href="#astar" class="open-popup-link"><img src="img/partner-astar.jpg" alt=""></a>
-	  </div>
-	  <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
 		  <a href="#reddot" class="open-popup-link"><img src="img/partner-reddotpower.jpg" alt=""></a>
 	  </div>
 	  <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
